@@ -1,0 +1,23 @@
+{
+  "name": "to-ac3",
+  "version": "1.0.0",
+  "description": "ffmpeg transcode aac & dts to ac3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickescallon/to-ac3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickescallon/to-ac3/issues"
+  },
+  "homepage": "https://github.com/nickescallon/to-ac3",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.0.1",
+    "glob": "^6.0.2"
+  }
+}
